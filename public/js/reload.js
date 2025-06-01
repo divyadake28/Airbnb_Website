@@ -1,8 +1,8 @@
 let filter = document.querySelectorAll(".filter")
 
-filter[0].addEventListener("click", () =>{
-    location.reload();
-});
+filter[0].addEventListener("click", () => {
+    location.reload()
+})
 
 filter[1].addEventListener("click", () =>{
     location.reload();
